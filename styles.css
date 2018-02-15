@@ -1,0 +1,9 @@
+body { background: darkgrey;
+       color: white;
+       font-size: 14pt; }
+       
+       a { color: mediumpurple;
+    text-decoration: none }
+a:hover { color: thistle }
+
+body { font-family: 'Montserrat', sans-serif; }
